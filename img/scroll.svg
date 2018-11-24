@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 37" width="38" height="37">
+	<defs>
+		<image width="12" height="7" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAHBAMAAADOnLEXAAAAAXNSR0IB2cksfwAAABhQTFRF////////////////////////////////KSvAyAAAAAh0Uk5TVREAZpnM7ncrm0FjAAAAL0lEQVR4nGNgVAICIwZXISUllUAGlUAlJVchBiAGshiAIkBxBiUlN6AwkFIHKgIApm0G3BQY90MAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #19bd9a } 
+	</style>
+	<g id="&lt;/&gt; HOVER">
+		<path id="Ellipse 1 copy" class="shp0" d="M1,19c0,9.94 8.06,18 18,18c9.94,0 18,-8.06 18,-18c0,-9.94 -8.06,-18 -18,-18c-9.94,0 -18,8.06 -18,18z" />
+		<use id="" href="#img1" x="13" y="16" />
+	</g>
+</svg>
